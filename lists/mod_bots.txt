@@ -6,3 +6,4 @@ u/RepostMasterBot
 u/Portrait_Robot
 u/SafestBot
 u/bot-swatter
+u/banhammerapp
