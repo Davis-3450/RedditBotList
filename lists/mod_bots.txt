@@ -7,3 +7,16 @@ u/Portrait_Robot
 u/SafestBot
 u/bot-swatter
 u/banhammerapp
+u/AssistantBOT
+u/BotDefense
+u/BotTerminator
+u/CollapseBot
+u/ContextMod
+u/DuplicateDestroyer
+u/Flair_Helper
+u/ModeratelyHelpfulBot
+u/ModeratelyUsefulBot
+u/PublicModLogs
+u/RepostSleuthBot
+u/RepostSentinel
+u/TheReposterminator
